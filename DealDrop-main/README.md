@@ -1,2 +1,0 @@
-# DealDrop
-Online Auction System
