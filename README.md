@@ -4,8 +4,6 @@ DealDrop is a **full-stack real-time online auction platform** that enables user
 
 The platform combines a **MERN-based application architecture** with **Socket.IO for real-time bidding, JWT-based authentication, AI/ML-powered features, Razorpay payment integration, Cloudinary media storage, and Docker-based deployment**.
 
-
-Deployment link  https://deal-drop-xi.vercel.app/
 ---
 
 ## 🚀 Key Features
